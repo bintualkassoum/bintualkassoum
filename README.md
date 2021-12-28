@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bintualkassoum or Bintu!
+- 👋 Hi, I’m Bintu!
 - 👀 I’m interested in ... all things artificial intelligence and ethics as it pertains to society 
 - 🌱 I’m currently learning ... Python and SQL, planning on starting Swift and maybe R soon; predictive models, app building, data analysis  
 - 💞️ I’m looking to collaborate on ... anything 
