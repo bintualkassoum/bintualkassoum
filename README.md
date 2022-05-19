@@ -13,6 +13,7 @@ I'm a grad student with a Sociology background, completing a Master of Managemen
 
 📲 How to reach me ... Linkedin: https://ca.linkedin.com/in/bintualkassoum; Website: https://www.bintualkassoum.com
 
+
 ## My GitHub Journey 📈
 
 <a href="https://github.com/bintualkassoum/bintualkassoum">
