@@ -14,9 +14,9 @@ I'm a grad student with a Sociology background, completing a Master of Managemen
 📲 How to reach me ... Linkedin: https://ca.linkedin.com/in/bintualkassoum; Website: https://www.bintualkassoum.com
 
 ## My Work 📌
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=fair-ml-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=212529" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=fair-ml-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=373737" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=nextflix-rooms-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=212529" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=nextflix-rooms-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=373737" />
 
 ## Languages and Libraries 📚
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6C91BF)
@@ -44,5 +44,5 @@ I'm a grad student with a Sociology background, completing a Master of Managemen
 ## My GitHub Journey 📈
 
 <a href="https://github.com/bintualkassoum/bintualkassoum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bintualkassoum&show_icons=true&line_height=27&count_private=true&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=212529" alt="My GitHub Journey 📈" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bintualkassoum&show_icons=true&line_height=27&count_private=true&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=373737" alt="My GitHub Journey 📈" />
 </a>
