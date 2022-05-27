@@ -14,7 +14,7 @@ I'm a grad student with a Sociology background, completing a Master of Managemen
 📲 How to reach me ... Linkedin: https://ca.linkedin.com/in/bintualkassoum; Website: https://www.bintualkassoum.com
 
 ## My Work 📌
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=fair-ml-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=373737" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=fair-ml-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=373737" link="https://github.com/bintualkassoum/fair-ml-project" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bintualkassoum&repo=nextflix-rooms-project&title_color=F25757&text_color=9C91BF&icon_color=6C91BF&bg_color=373737" />
 
