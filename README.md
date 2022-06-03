@@ -1,7 +1,7 @@
 ![github-header-image](https://user-images.githubusercontent.com/96799559/169418351-709733e3-e472-4148-9d36-edb1f45fdf6d.png)
 
 
-## Welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> 
+## Welcome! 👋
 
 I'm a grad student with a Sociology background, completing a Master of Management in AI. I'm passionate about researching, applying, and implementing AI solutions to business and social problems 
 
